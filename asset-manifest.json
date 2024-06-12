@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/abdillah98/my-carousel-typescript/static/css/main.42eaec16.css",
+    "main.js": "/abdillah98/my-carousel-typescript/static/js/main.cf93312d.js",
+    "static/js/453.d61d92c0.chunk.js": "/abdillah98/my-carousel-typescript/static/js/453.d61d92c0.chunk.js",
+    "index.html": "/abdillah98/my-carousel-typescript/index.html",
+    "main.42eaec16.css.map": "/abdillah98/my-carousel-typescript/static/css/main.42eaec16.css.map",
+    "main.cf93312d.js.map": "/abdillah98/my-carousel-typescript/static/js/main.cf93312d.js.map",
+    "453.d61d92c0.chunk.js.map": "/abdillah98/my-carousel-typescript/static/js/453.d61d92c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42eaec16.css",
+    "static/js/main.cf93312d.js"
+  ]
+}
